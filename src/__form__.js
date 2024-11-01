@@ -9,5 +9,5 @@
  * 
  * 5. use hook to handle state and submit and error. example react hook form
  * 
- * 6. reusable component
+ * 6. reusable components
  */
